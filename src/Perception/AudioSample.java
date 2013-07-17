@@ -172,6 +172,8 @@ public class AudioSample {
             if (Math.abs(sample[0][rareI]) < 1000 && cutIndexEnd == rareI + 1)
                 cutIndexEnd = rareI;
         }
+        /*oj*/
+        
         
         cutIndexStart = (cutIndexStart - 16000) > 0 ? cutIndexStart - 16000 : 0;
         cutIndexEnd = (cutIndexEnd + 8000) < sample[0].length ? cutIndexEnd + 8000 : sample[0].length;
