@@ -1,0 +1,120 @@
+1	ENG-020	152	中国政治	zhong1 guo2 zheng4 zhi4	 Good	zhong1 guo2 zheng4 zhi4	24	M
+2	ENG-088	120	月工资	yve4 gong1 zi1	 Good	yve4 gong1 zi1	50	F
+3	ENG-151	280	农夫在田里工作了一整年。	nong2 fu1 zai4 tian2 li3 gong1 zuo4 le5 yi1 zheng3 nian2	 Good	nong3 fu1 zai4 tian1 li2 gong1 zuo4 le5 yi3 zheng1 nian2	39	F
+4	ENG-218	105	第一年	di4 yi1 nian2	 Good	di4 yi1 nian2	29	F
+5	ENG-149	69	一串	yi1 chuan4	 Good	yi2 chuan4	27	F
+6	ENG-216	25	受灾	shou4 zai1	 Good	shou4 zai1	29	M
+7	ENG-084	126	上半场	shang4 ban4 chang3	 Good	shang4 ban4 chang3	22	M
+8	ENG-206	278	妈妈洗了衣服，然后去买菜。	ma1 ma5 xi3 le5 yi1 fu2 ran2 hou4 qv4 mai3 cai4	 Good	ma1 ma1 xi3 le5 yi1 fu5 ran2 hou4 qv4 mai3 mai3 cai4	29	M
+9	ENG-110	42	单价	dan1 jia4	 Good	dang1 jia4	35	M
+10	ENG-001	32	乃至	nai3 zhi4	 Good	nai3 zhi4	38	F
+11	ENG-041	50	图谋	tu2 mou2	 Good	tu4 mou2	36	F
+12	ENG-013	138	大会堂	da4 hui4 tang2	 Good	da4 hui4 tang1	21	M
+13	ENG-053	272	雪珍的家收拾得那么整洁	xve3 zhen1 de5 jia1 shou1 shi5 de5 na4 me5 zheng3 jie2	 Good	xve3 zhen1 de5 jia1 shou4 shi2 de5 na3 me5 zheng2 jie2	21	F
+14	ENG-283	261	却不见得会受到肯定与欢迎	qve4 bu4 jian4 de5 hui4 shou4 dao4 ken3 ding4 yv3 huan1 ying2	 Good	qve4 bu4 jian4 de5 hui2 shou4 dao4 gen4 ding4 yve4 huan1 ying1	21	M
+15	ENG-261	90	历程	li4 cheng2	 Good	li4 cheng2	21	M
+16	ENG-227	62	劝说	qvan4 shuo1	 Useless	chuang1 shuo1	22	M
+17	ENG-134	237	爱花常常帮妈妈洗衣服。	ai4 hua1 chang2 chang2 bang1 ma1 ma5 xi3 yi1 fu2	 Good	ai1 hua3 chang2 chang2 bang1 ma1 ma1 xi4 yi1 fu2	41	M
+18	ENG-006	123	外单位	wai4 dan1 wei4	 Good	wai4 dan1 wei4	20	M
+19	ENG-235	147	清洁工	qing1 jie2 gong1	 Good	qing1 qie2 gong1	26	F
+20	ENG-071	70	森林	sen1 lin2	 Good	sen1 lin2	20	F
+21	ENG-150	1	公升	gong1 sheng1	 Good	gong1 sheng1	30	M
+22	ENG-183	296	野生动物的种类繁多	ye3 sheng1 dong4 wu4 de5 zhong3 lei4 fan2 duo1	 Good	ye2 sheng1 dong4 wu4 de5 zhong2 lei4 fan2 duo1	26	F
+23	ENG-164	227	我们有时读书，有时游戏。	wo3 men5 you3 shi2 du2 shu1 you3 shi2 you2 xi4	 Good	wo3 men5 you3 shi4 du4 shu1 you3 shi1 you3 xi4	35	M
+24	ENG-237	246	这件事心眉做得很对。	zhe4 jian4 shi4 xin1 mei2 zuo4 de5 hen3 dui4	 Good	zhe4 jian1 shi4 xin1 mei4 zuo4 de5 hen3 dui4	20	M
+25	ENG-134	237	爱花常常帮妈妈洗衣服。	ai4 hua1 chang2 chang2 bang1 ma1 ma5 xi3 yi1 fu2	 Good	ai1 hua3 chang2 chang2 bang1 ma1 ma1 xi4 yi1 fu2	41	M
+26	ENG-138	83	中午	zhong1 wu3	 Good	zhong1 wu3	43	M
+27	ENG-118	37	商标	shang1 biao1	 Good	shang1 biao3	42	M
+28	ENG-206	153	在外交上	zai4 wai4 jiao1 shang4	 Good	zai4 wai4 jiao1 shang4	29	M
+29	ENG-233	229	知己知彼方能百战不殆	zhi1 ji3 zhi1 bi3 fang1 neng2 bai3 zhan4 bu2 dai4	 Bad	zhi1 ji3 zhi1 bi3 bi2 fang1 neng2 bai3 zhan4 bu2 dai4	36	M
+30	ENG-020	9	娶亲	qv3 qin1	 Good	qv3 qin1	24	M
+31	ENG-242	159	中国统一	zhong1 guo2 tong3 yi1	 Good	zhong1 guo2 tong2 yi1	22	F
+32	ENG-003	146	不习惯	bu4 xi2 guan4	 Good	bu4 xi2 guan3	23	F
+33	ENG-015	199	自主开发	zi4 zhu3 kai1 fa1	 Good	zi4 zhu3 kai1 fa1	27	M
+34	ENG-281	125	足球场	zu2 qiu2 chang3	 Good	zu3 qiu2 chang3	26	M
+35	ENG-084	126	上半场	shang4 ban4 chang3	 Good	shang4 ban4 chang3	22	M
+36	ENG-205	259	埃及令人向往。	ai1 ji2 ling4 ren2 xiang4 wang3	 Good	ai1 ji3 ling1 ren2 xiang1 wang3	23	M
+37	ENG-235	147	清洁工	qing1 jie2 gong1	 Good	qing1 qie2 gong1	26	F
+38	ENG-071	70	森林	sen1 lin2	 Good	sen1 lin2	20	F
+39	ENG-052	5	车窗	che1 chuang1	 Good	qie1 chuang1	23	F
+40	ENG-284	183	伊朗问题	yi1 lang3 wen4 ti2	 Good	yi1 lang3 wen4 ti1	30	M
+41	ENG-041	50	图谋	tu2 mou2	 Good	tu4 mou2	36	F
+42	ENG-046	163	史上第一	shi3 shang4 di4 yi1	 Good	shi3 zhang1 di4 yi2	37	M
+43	ENG-237	7	动力	dong4 li4	 Good	dong4 li1	20	M
+44	ENG-046	163	史上第一	shi3 shang4 di4 yi1	 Good	shi3 zhang1 di4 yi2	37	M
+45	ENG-088	120	月工资	yve4 gong1 zi1	 Good	yve4 gong1 zi1	50	F
+46	ENG-015	199	自主开发	zi4 zhu3 kai1 fa1	 Good	zi4 zhu3 kai1 fa1	27	M
+47	ENG-009	69	不必	bu2 bi4	 Good	bu2 bi4	21	M
+48	ENG-237	246	这件事心眉做得很对。	zhe4 jian4 shi4 xin1 mei2 zuo4 de5 hen3 dui4	 Good	zhe4 jian1 shi4 xin1 mei4 zuo4 de5 hen3 dui4	20	M
+49	ENG-258	50	年龄	nian2 ling2	 Good	nian2 ling2	35	F
+50	ENG-020	152	中国政治	zhong1 guo2 zheng4 zhi4	 Good	zhong1 guo2 zheng4 zhi4	24	M
+51	ENG-076	87	经营	jing1 ying2	 Good	jing1 ying2	26	M
+52	ENG-206	153	在外交上	zai4 wai4 jiao1 shang4	 Good	zai4 wai4 jiao1 shang4	29	M
+53	ENG-155	183	无人驾驶	wu2 ren2 jia4 shi3	 Good	wu2 ren2 jia2 shi3	29	M
+54	ENG-223	85	可逆	ke3 ni4	 Useless	ke3 ni4	25	F
+55	ENG-284	183	伊朗问题	yi1 lang3 wen4 ti2	 Good	yi1 lang3 wen4 ti1	30	M
+56	ENG-237	110	女主人	nv3 zhu3 ren2	 Good	nv3 zhu1 ren2	20	M
+57	ENG-269	103	净资产	jing4 zi1 chan3	 Good	jing4 zi1 chan2	28	F
+58	ENG-155	183	无人驾驶	wu2 ren2 jia4 shi3	 Good	wu2 ren2 jia2 shi3	29	M
+59	ENG-264	92	其次	qi2 ci4	 Good	qi3 ci4	21	F
+60	ENG-237	110	女主人	nv3 zhu3 ren2	 Good	nv3 zhu1 ren2	20	M
+61	ENG-223	85	可逆	ke3 ni4	 Useless	ke3 ni4	25	F
+62	ENG-151	280	农夫在田里工作了一整年。	nong2 fu1 zai4 tian2 li3 gong1 zuo4 le5 yi1 zheng3 nian2	 Good	nong3 fu1 zai4 tian1 li2 gong1 zuo4 le5 yi3 zheng1 nian2	39	F
+63	ENG-009	44	议论	yi4 lun4	 Good	yi4 lun4	21	M
+64	ENG-122	200	这些年来	zhe4 xie1 nian2 lai2	 Good	zhe4 xie1 nian2 lai2	32	M
+65	ENG-235	67	青蛙	qing1 wa1	 Good	qing1 wa1	26	F
+66	ENG-149	69	一串	yi1 chuan4	 Good	yi2 chuan4	27	F
+67	ENG-006	123	外单位	wai4 dan1 wei4	 Good	wai4 dan1 wei4	20	M
+68	ENG-283	261	却不见得会受到肯定与欢迎	qve4 bu4 jian4 de5 hui4 shou4 dao4 ken3 ding4 yv3 huan1 ying2	 Good	qve4 bu4 jian4 de5 hui2 shou4 dao4 gen4 ding4 yve4 huan1 ying1	21	M
+69	ENG-118	112	小动作	xiao3 dong4 zuo4	 Good	xiao3 dong4 zuo1	42	M
+70	ENG-233	229	知己知彼方能百战不殆	zhi1 ji3 zhi1 bi3 fang1 neng2 bai3 zhan4 bu2 dai4	 Bad	zhi1 ji3 zhi1 bi3 bi2 fang1 neng2 bai3 zhan4 bu2 dai4	36	M
+71	ENG-003	146	不习惯	bu4 xi2 guan4	 Good	bu4 xi2 guan3	23	F
+72	ENG-009	69	不必	bu2 bi4	 Good	bu2 bi4	21	M
+73	ENG-095	8	总合	zong3 he2	 Good	zong3 he2	37	M
+74	ENG-053	272	雪珍的家收拾得那么整洁	xve3 zhen1 de5 jia1 shou1 shi5 de5 na4 me5 zheng3 jie2	 Good	xve3 zhen1 de5 jia1 shou4 shi2 de5 na3 me5 zheng2 jie2	21	F
+75	ENG-099	46	羊肉	yang2 rou4	 Good	yang1 rou4	37	M
+76	ENG-110	42	单价	dan1 jia4	 Good	dang1 jia4	35	M
+77	ENG-183	296	野生动物的种类繁多	ye3 sheng1 dong4 wu4 de5 zhong3 lei4 fan2 duo1	 Good	ye2 sheng1 dong4 wu4 de5 zhong2 lei4 fan2 duo1	26	F
+78	ENG-055	281	哥哥看见七只鸟。	ge1 ge5 kan4 jian4 qi1 zhi1 niao3	 Good	ge1 ge3 kan4 jian3 qi1 zhi1 niao3	27	M
+79	ENG-205	259	埃及令人向往。	ai1 ji2 ling4 ren2 xiang4 wang3	 Good	ai1 ji3 ling1 ren2 xiang1 wang3	23	M
+80	ENG-242	159	中国统一	zhong1 guo2 tong3 yi1	 Good	zhong1 guo2 tong2 yi1	22	F
+81	ENG-132	211	他约的人迟到了半小时。	ta1 yve1 de5 ren2 chi2 dao4 le5 ban4 xiao3 shi2	 Good	ta1 yve2 de4 ren2 chi2 dao4 le4 ban4 xiao2 shi1	37	M
+82	ENG-281	125	足球场	zu2 qiu2 chang3	 Good	zu3 qiu2 chang3	26	M
+83	ENG-084	70	饭量	fan4 liang4	 Good	fan4 liang4	22	M
+84	ENG-239	278	闹得大家都很苦恼	nao4 de5 da4 jia1 dou1 hen3 ku3 nao3	 Good	nao4 de5 da4 jia1 dou1 hen2 ku3 nao3	22	M
+85	ENG-055	281	哥哥看见七只鸟。	ge1 ge5 kan4 jian4 qi1 zhi1 niao3	 Good	ge1 ge3 kan4 jian3 qi1 zhi1 niao3	27	M
+86	ENG-084	70	饭量	fan4 liang4	 Good	fan4 liang4	22	M
+87	ENG-074	21	小草	xiao3 cao3	 Good	xiao3 cao3	22	F
+88	ENG-218	105	第一年	di4 yi1 nian2	 Good	di4 yi1 nian2	29	F
+89	ENG-206	278	妈妈洗了衣服，然后去买菜。	ma1 ma5 xi3 le5 yi1 fu2 ran2 hou4 qv4 mai3 cai4	 Good	ma1 ma1 xi3 le5 yi1 fu5 ran2 hou4 qv4 mai3 mai3 cai4	29	M
+90	ENG-216	25	受灾	shou4 zai1	 Good	shou4 zai1	29	M
+91	ENG-132	211	他约的人迟到了半小时。	ta1 yve1 de5 ren2 chi2 dao4 le5 ban4 xiao3 shi2	 Good	ta1 yve2 de4 ren2 chi2 dao4 le4 ban4 xiao2 shi1	37	M
+92	ENG-227	62	劝说	qvan4 shuo1	 Useless	chuang1 shuo1	22	M
+93	ENG-074	21	小草	xiao3 cao3	 Good	xiao3 cao3	22	F
+94	ENG-258	50	年龄	nian2 ling2	 Good	nian2 ling2	35	F
+95	ENG-150	1	公升	gong1 sheng1	 Good	gong1 sheng1	30	M
+96	ENG-138	83	中午	zhong1 wu3	 Good	zhong1 wu3	43	M
+97	ENG-013	138	大会堂	da4 hui4 tang2	 Good	da4 hui4 tang1	21	M
+98	ENG-076	87	经营	jing1 ying2	 Good	jing1 ying2	26	M
+99	ENG-095	8	总合	zong3 he2	 Good	zong3 he2	37	M
+100	ENG-111	52	书店	shu1 dian4	 Good	shu1 dian4	20	M
+101	ENG-014	267	你们应该去看看的	ni3 men5 ying1 gai1 qv4 kan4 kan4 de5	 Good	ni3 men5 ying1 gai1 qv4 kan4 kan4 de5	17	M
+102	ENG-009	44	议论	yi4 lun4	 Good	yi4 lun4	21	M
+103	ENG-001	32	乃至	nai3 zhi4	 Good	nai3 zhi4	38	F
+104	ENG-014	267	你们应该去看看的	ni3 men5 ying1 gai1 qv4 kan4 kan4 de5	 Good	ni3 men5 ying1 gai1 qv4 kan4 kan4 de5	17	M
+105	ENG-042	4	呼应	hu1 ying4	 Good	hu1 ying4	24	M
+106	ENG-052	5	车窗	che1 chuang1	 Good	qie1 chuang1	23	F
+107	ENG-118	37	商标	shang1 biao1	 Good	shang1 biao3	42	M
+108	ENG-239	278	闹得大家都很苦恼	nao4 de5 da4 jia1 dou1 hen3 ku3 nao3	 Good	nao4 de5 da4 jia1 dou1 hen2 ku3 nao3	22	M
+109	ENG-118	112	小动作	xiao3 dong4 zuo4	 Good	xiao3 dong4 zuo1	42	M
+110	ENG-235	67	青蛙	qing1 wa1	 Good	qing1 wa1	26	F
+111	ENG-261	90	历程	li4 cheng2	 Good	li4 cheng2	21	M
+112	ENG-164	227	我们有时读书，有时游戏。	wo3 men5 you3 shi2 du2 shu1 you3 shi2 you2 xi4	 Good	wo3 men5 you3 shi4 du4 shu1 you3 shi1 you3 xi4	35	M
+113	ENG-269	103	净资产	jing4 zi1 chan3	 Good	jing4 zi1 chan2	28	F
+114	ENG-099	46	羊肉	yang2 rou4	 Good	yang1 rou4	37	M
+115	ENG-264	92	其次	qi2 ci4	 Good	qi3 ci4	21	F
+116	ENG-111	52	书店	shu1 dian4	 Good	shu1 dian4	20	M
+117	ENG-237	7	动力	dong4 li4	 Good	dong4 li1	20	M
+118	ENG-042	4	呼应	hu1 ying4	 Good	hu1 ying4	24	M
+119	ENG-020	9	娶亲	qv3 qin1	 Good	qv3 qin1	24	M
+120	ENG-122	200	这些年来	zhe4 xie1 nian2 lai2	 Good	zhe4 xie1 nian2 lai2	32	M
